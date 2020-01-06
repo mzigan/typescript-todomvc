@@ -1,4 +1,4 @@
-# TypeScript-TodoMVC
+## TypeScript-TodoMVC
 
 This repository is TodoMVC implemented with TypeScript. Not using other frameworks.
 
