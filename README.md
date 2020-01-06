@@ -4,7 +4,7 @@ This repository is TodoMVC implemented with TypeScript. Not using other framewor
 
 [Demo](https://ts-todomvc.herokuapp.com/)
 
-## run
+## Run
 
 - $ npm install
 - $ npm run build
