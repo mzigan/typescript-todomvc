@@ -2,7 +2,7 @@
 
 This repository is TodoMVC implemented with TypeScript. Not using other frameworks.
 
-[Demo](https://ts-todomvc.herokuapp.com/)
+[Demo](https://mzigan.github.io/typescript-todomvc/)
 
 ## Run
 
